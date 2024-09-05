@@ -14,6 +14,12 @@
 - Laravel 10
 - MySQL 
 
+## Postman Collection
+
+Locate the file:
+
+The Postman collection file Organizational-Chart.postman_collection.json is available in the root directory of this repository.
+
 ## Installation
 
 1. **Clone the Repository:**
@@ -75,3 +81,5 @@ DB_PORT=3306
 DB_DATABASE=org-chart
 DB_USERNAME=root
 DB_PASSWORD=rayu
+
+

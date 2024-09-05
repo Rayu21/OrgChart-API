@@ -5,9 +5,6 @@
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Configuration](#configuration)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
 - [Postman Collection](#postman-collection)
 
 ## Prerequisites

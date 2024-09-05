@@ -1,6 +1,5 @@
 # Organizational-Chart-API
 
-
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
@@ -9,6 +8,7 @@
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
+- [Postman Collection](#postman-collection)
 
 ## Prerequisites
 
@@ -72,7 +72,6 @@ Update your `.env` file with the correct database and other environment configur
 Example `.env` configuration:
 
 ```env
-
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
